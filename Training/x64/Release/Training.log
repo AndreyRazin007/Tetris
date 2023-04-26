@@ -1,0 +1,16 @@
+﻿  main.cpp
+D:\Programing\C++\Training\Training\main.cpp(34,11): warning C4305: 'return': truncation from 'int' to 'bool'
+D:\Programing\C++\Training\Training\main.cpp(38,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Programing\C++\Training\Training\main.cpp(62,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Programing\C++\Training\Training\main.cpp(93,19): warning C4305: '=': truncation from 'double' to 'float'
+D:\Programing\C++\Training\Training\main.cpp(176,17): warning C4305: '=': truncation from 'double' to 'float'
+D:\Programing\C++\Training\Training\main.cpp(188,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\C++\Training\Training\main.cpp(188,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\C++\Training\Training\main.cpp(197,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\C++\Training\Training\main.cpp(197,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  1 of 70 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Training.vcxproj -> D:\Programing\C++\Training\x64\Release\Training.exe

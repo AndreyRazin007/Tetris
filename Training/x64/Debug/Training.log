@@ -1,0 +1,14 @@
+﻿  archive.cpp
+  game.cpp
+  main.cpp
+D:\Programing\C++\Training\Tetris\Training\main.cpp(34,11): warning C4305: 'return': truncation from 'int' to 'bool'
+D:\Programing\C++\Training\Tetris\Training\main.cpp(38,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Programing\C++\Training\Tetris\Training\main.cpp(62,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Programing\C++\Training\Tetris\Training\main.cpp(93,19): warning C4305: '=': truncation from 'double' to 'float'
+D:\Programing\C++\Training\Tetris\Training\main.cpp(176,17): warning C4305: '=': truncation from 'double' to 'float'
+D:\Programing\C++\Training\Tetris\Training\main.cpp(188,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\C++\Training\Tetris\Training\main.cpp(188,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\C++\Training\Tetris\Training\main.cpp(197,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programing\C++\Training\Tetris\Training\main.cpp(197,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Training.vcxproj -> D:\Programing\C++\Training\Tetris\x64\Debug\Training.exe

@@ -1,0 +1,2 @@
+D:\Programing\C++\Training\Training\x64\Debug\Training.vcxproj.CopyComplete
+D:\Programing\C++\Training\Tetris\Training\x64\Debug\Training.vcxproj.CopyComplete
